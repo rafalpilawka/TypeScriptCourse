@@ -1,0 +1,1 @@
+Small project management. Drag and drop web class based app using Typescript. Based on Maximilian Schwarzmuller Udemy course with some minor tweaks. 
